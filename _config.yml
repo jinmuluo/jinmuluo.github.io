@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biosphere-Atmosphere Interactions Lab"
+title                    : "Land-Atmosphere Interactions Lab"
 title_separator          : "-"
 name                     : &name "Jinmu Luo"
 description              : &description "PhD student at Cornell University"
