@@ -10,6 +10,5 @@ We developed a recurrent neural network (RNN) method based on nonparametric deep
 to predict monthly air concentrations of polycyclic aromatic hydrocarbons (PAHs) at the high Arctic 
 monitoring station Alert.
 
-DOI: https://doi.org/10.1021/acs.est.9b05000
-
+[DOI](https://doi.org/10.1021/acs.est.9b05000)
 [Download paper here](https://jinmuluo.github.io/files/2019EST.pdf)
